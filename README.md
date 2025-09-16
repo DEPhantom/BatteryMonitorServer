@@ -4,7 +4,7 @@
 
 > This project must be used in conjunction with [the repository](https://github.com/DEPhantom/BatteryMonitorServer).
 
-用來監控手機電量的Server.
+A Firebase Cloud Messaging (FCM) server designed to monitor and report mobile device battery status.
 
 ## Dependencies 
 * java
