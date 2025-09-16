@@ -27,13 +27,13 @@ https://github.com/DEPhantom/BatteryMonitorServer.git
 `src/main/resources/config/config.yaml`
 to configure the server IP and the absolute path to the Python script.
 By default, the Python script is usually located in:
-```
-text BatteryMonitorServer/src/ └── print_output.py
+```text
+BatteryMonitorServer/src/ └── print_output.py
 ```
 3. Go to your project settings in the Google Firebase Console,
 navigate to the Service Accounts tab, and generate a new private key.
 Place the downloaded key file in:
-```
+```plaintext
 src/main/resources/ └── FCM_key/ └── yourkey.json
 ```
 5. Run
