@@ -2,7 +2,7 @@
 
 ![Logo](https://github.com/DEPhantom/BatteryMonitorServer/blob/main/img/cli-picture.jpg)
 
-> This project must be used in conjunction with [the repository](https://github.com/DEPhantom/BatteryMonitorServer).
+> This project must be used in conjunction with [the repository](https://github.com/DEPhantom/BatteryMonitor).
 
 A Firebase Cloud Messaging (FCM) server designed to monitor and report mobile device battery status.
 
